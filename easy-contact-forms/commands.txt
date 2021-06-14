@@ -1,0 +1,37 @@
+Drupal video http://buildamodule.com/video/drupal-6-development-and-tools-essential-concepts-how-to-build-your-first-drupal-module#viewing
+
+Books
+YII http://www.amazon.com/dp/1849518726?tag=gii20f-20
+Yii Application Development Cookbook Second Edition http://www.amazon.com/dp/B00BKZHDGS?tag=gii20f-20
+
+Laravel Framework:http://www.amazon.com/Getting-Started-Laravel-Rapha%C3%ABl-Saunier/dp/1783287039/
+
+
+Angular JS ng-book The Complete Book on AngularJS Author Ari Lerner  https://www.ng-book.com/#features
+Angular Js http://shop.oreilly.com/product/0636920028055.do
+D004597 pooja lokulwar
+Commands
+
+Joomla Modules
+http://www.packtpub.com/article/module-development-in-joomla
+http://www.minitek.gr/blog/coding/development/how-to-create-a-database-driven-joomla-module
+
+
+
+Online for the Laravel http://laravelbook.com/laravel-introduction/
+
+
+module example
+https://www.ostraining.com/blog/joomla/part-1-make-a-simple-joomla-module/
+
+
+Ip Address 
+nslookup domain_name
+
+
+Mobile Phone
+Micromax Canvas Knight
+HTC Desire 816
+Lenovo Vibe X
+
+
